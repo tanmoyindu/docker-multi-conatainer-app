@@ -13,7 +13,7 @@ Node.js / Express: Backend service
 
 React.js: Frontend application
 
-PostgreSQL / MongoDB: Database storage
+MongoDB: Database storage
 
 ## Prerequisites
 Docker
@@ -45,4 +45,5 @@ docker logs -f <container_id> → View logs of a container
 docker images → List all images
 
 docker rmi <image_id> → Remove an image
+
 docker build -t my_image . → Build an image from a Dockerfile
