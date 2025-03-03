@@ -24,7 +24,7 @@ Docker
 
 ## Getting Started
 Clone this repository:
-git clone https://github.com/yourusername/multi-container-app.git
+git clone https://github.com/tanmoyindu/docker-multi-conatainer-app.git
 
 cd multi-container-app
 
