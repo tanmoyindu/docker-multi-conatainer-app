@@ -6,10 +6,6 @@ Containerized backend, frontend, and database services
 
 Network communication between services
 
-Persistent data storage using volumes
-
-Environment variable management for configurations
-
 ## Technologies Used
 Docker: Containerization of applications
 
